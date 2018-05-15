@@ -1,0 +1,26 @@
+name: "Purva Kulkarni"
+output_dir: "."
+navbar:
+  title: "Purva Kulkarni"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "My research"
+      href: about.html
+    - text: "Publications"
+      href: about.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: about.html
+    - icon: fa-github fa-lg
+      href: https://github.com/purvakulkarni7
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/Purva_Kulkarni
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/purvakulkarni/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
