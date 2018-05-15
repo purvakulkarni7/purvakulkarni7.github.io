@@ -1,5 +1,5 @@
 ---
-Get in touch
+title: "Get in touch"
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
