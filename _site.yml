@@ -5,12 +5,14 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "CV"
+      href: CV.html
     - text: "My research"
-      href: about.html
+      href: research.html
     - text: "Publications"
-      href: about.html
+      href: publications.html
+    - text: "Contact"
+      href: contact.html
   right:
     - icon: fa-envelope fa-lg
       href: about.html
