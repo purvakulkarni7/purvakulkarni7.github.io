@@ -6,39 +6,56 @@ title: "Curriculum Vitae"
 
 <img src="images/paperclip_turquoise_blue.png" style="width:2%; margin-right: 20px" align="left"> 
 
-## Academic education ##
-
-
-----
-
-Ph.D. Friedrich Schiller University, Bioinformatics _Thesis submitted_ (Defense expected June 2018)  <br>
-M.Sc. DAVV University, July 2011, Biochemistry <br>
-PGDB Institute of Bioinformatics and Applied Biotechnology (IBAB), April 2009, Bioinformatics <br>
-B.Sc. DAVV University, July 2007, Bioinformatics <br>
-
-&nbsp;
-
-<img src="images/paperclip_turquoise_blue.png" style="width:2%; margin-right: 20px" align="left"> 
-
-## Positions held ##
-
+## Research and academics ##
 
 ----
 
-**Feb 2017 – Till date**    <br>
-Post-doctoral researcher at NIOO-KNAW, Wageningen, NL   <br>
+**Feb 2017 – Till date** <br>
+**Post-doctoral researcher, Netherlands Insitute of Ecology (NIOO-KNAW), Wageningen, NL**  <br>
+Developing bioinformatics tools and pipelines for metabolomics analysis (Mass spectrometry imaging, GC-MS and LC-MS)
 <br>
-**Apr 2009 – Dec 2012** <br>
-Bioinformatician at PREMIER Biosoft International (India Office), Indore, India    <br>
+
+**Jan 2013 – Jan 2017** <br>
+**Ph.D. researcher, Friedrich Schiller University (FSU) and Max Planck Institute for Chemical Ecology (MPI-CE), Jena, DE** <br> 
+Computational methods for the analysis of mass spectrometry imaging data<br>
+_(Defense expected June 2018)_<br>
+
+**Sep 2009 - November 2011**<br>
+**Masters in Science (Biochemistry), Devi Ahilya Vishwa Vidyalaya (DAVV), Indore, IN**<br>
+Structural analysis of human milk oligosaccharides using tandem mass spectrometry<br>
+
+**Nov 2007 - Apr 2009**<br>
+**Post Graduate Diploma in Bioinformatics, Institute of Bioinformatics and Applied Biotechnology (IBAB), Bangalore, IN**<br>
+Proteomics data de-noising: A wavelet based statistical approach<br>
+
+**Jul 2004 - May 2007**<br>
+**Bachelors in Science (Bioinformatics), Devi Ahilya Vishwa Vidyalaya (DAVV), Indore, IN**<br>
+HPLC-based quantitative analysis of pharmaceutically relevant drug samples<br>
 
 &nbsp;
 
 <img src="images/paperclip_turquoise_blue.png" style="width:2%; margin-right: 20px" align="left"> 
 
-## Positions held ##
+## Industry experience##
 
 
 ----
+
+**Apr 2009 – Dec 2012** <br>
+**Bioinformatician,PREMIER Biosoft International (India Office), Indore, IN**<br>
+Technical team lead for the development of a software based on Mass Spectrometry Imaging 
+
+&nbsp;
+
+<img src="images/paperclip_turquoise_blue.png" style="width:2%; margin-right: 20px" align="left"> 
+
+## Skills ##
+
+----
+
+**Programming** JAVA, C, Perl, SQL, Shell Scripting  <br>
+**IDE's** Eclipse, MySQL Workbench, IntelliJ, Rstudio  <br>
+
 
 
 
