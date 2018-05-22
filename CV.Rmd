@@ -63,4 +63,4 @@ Technical team lead for the development of a software based on Mass Spectrometry
 
 ----
 
-Download a copy of my detailed curriculum vitae here
+<img src="images/download_icon.png" style="width:4%; margin-right: 20px" align="left"> Download a copy of my detailed curriculum vitae [here]("docs/Purva_Kulkarni_Curriculum_Vitae_Full.pdf").

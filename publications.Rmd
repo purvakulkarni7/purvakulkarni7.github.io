@@ -4,10 +4,12 @@ title: "Publications"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-**Kulkarni, P.**, Dost, M., Bulut, Ö. D., Welle, A., Böcker, S., Boland, W., Svatoš, A. Secondary ion mass spectrometry imaging and multivariate data analysis reveals co-aggregation patterns of Populus trichocarpa leaf surface compounds on micrometer scale. Plant J. 2018 Jan;93(1):193-206. DOI: [10.1111/tpj.13763](https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.13763)
+**Kulkarni, P.**, Wilschut, R.A., Verhoeven, K.J.F, Putten, W.H.V.D., Garbeva, P. (2018), LAESI mass spectrometry imaging as a tool to differentiate the root metabolome of native and range-expanding plant species. *bioRxiv 322867*. _GigaScience_. DOI: [10.1101/322867](https://www.biorxiv.org/content/early/2018/05/15/322867)
 
-Bartels, B., **Kulkarni, P.**, Danz, N., Böcker, S., Saluz, H. P., Svatoš, A. (2017). Mapping metabolites from rough terrain: laser ablation electrospray ionization on non-flat samples. RSC Advances, 7(15), 9045-9050. DOI: [10.1039/C6RA26854D](http://pubs.rsc.org/en/Content/ArticleLanding/2017/RA/C6RA26854D#!divAbstract)
+**Kulkarni, P.**, Dost, M., Bulut, Ö. D., Welle, A., Böcker, S., Boland, W., Svatoš, A. Secondary ion mass spectrometry imaging and multivariate data analysis reveals co-aggregation patterns of Populus trichocarpa leaf surface compounds on micrometer scale. _Plant J._ 2018 Jan;93(1):193-206. DOI: [10.1111/tpj.13763](https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.13763)
 
-**Kulkarni, P.**, Kaftan, F., Kynast, P., Svatoš, A., Böcker, S. (2015). Correcting mass shifts: A lock mass-free recalibration procedure for mass spectrometry imaging data. Anal Bioanal Chem, 407(25): 7603-13. DOI: [10.1007/s00216-015-8935-4](https://link.springer.com/article/10.1007%2Fs00216-015-8935-4)
+Bartels, B., **Kulkarni, P.**, Danz, N., Böcker, S., Saluz, H. P., Svatoš, A. (2017). Mapping metabolites from rough terrain: laser ablation electrospray ionization on non-flat samples. _RSC Advances_, 7(15), 9045-9050. DOI: [10.1039/C6RA26854D](http://pubs.rsc.org/en/Content/ArticleLanding/2017/RA/C6RA26854D#!divAbstract)
 
-Kaftan, F., Vrkoslav, V., Kynast, P., **Kulkarni, P.**, Böcker, S., Cvačka, J., Knaden, M. and Svatoš, A. (2014), Mass spectrometry imaging of surface lipids on intact Drosophila melanogaster flies. J. Mass Spectrom., 49: 223–232. DOI: [10.1002/jms.3331](https://onlinelibrary.wiley.com/doi/abs/10.1002/jms.3331)
+**Kulkarni, P.**, Kaftan, F., Kynast, P., Svatoš, A., Böcker, S. (2015). Correcting mass shifts: A lock mass-free recalibration procedure for mass spectrometry imaging data. _Anal Bioanal Chem_, 407(25): 7603-13. DOI: [10.1007/s00216-015-8935-4](https://link.springer.com/article/10.1007%2Fs00216-015-8935-4)
+
+Kaftan, F., Vrkoslav, V., Kynast, P., **Kulkarni, P.**, Böcker, S., Cvačka, J., Knaden, M. and Svatoš, A. (2014), Mass spectrometry imaging of surface lipids on intact Drosophila melanogaster flies. _J. Mass Spectrom._, 49: 223–232. DOI: [10.1002/jms.3331](https://onlinelibrary.wiley.com/doi/abs/10.1002/jms.3331)

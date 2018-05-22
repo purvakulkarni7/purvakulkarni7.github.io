@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
 
 <style type="text/css">code{white-space: pre;}</style>
@@ -31,10 +31,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -184,9 +186,6 @@ $(document).ready(function () {
   <a href="CV.html">CV</a>
 </li>
 <li>
-  <a href="research.html">Research</a>
-</li>
-<li>
   <a href="publications.html">Publications</a>
 </li>
 <li>
@@ -257,6 +256,7 @@ $(document).ready(function () {
 <hr />
 <p><strong>Programming</strong> JAVA, C, Perl, SQL, Shell Scripting <br> <strong>IDE’s</strong> Eclipse, MySQL Workbench, IntelliJ, Rstudio <br> <strong>Integrated software environment</strong> Matlab, R, Octave<br> <strong>Markup languages</strong> HTML, XML<br> <strong>Web/Application servers</strong> Apache, Tomcat 4.x/5.x<br> <strong>Operating systems</strong> Windows, Mac, Linux Ubuntu/Debian (for programming and application development)<br> <strong>Version control</strong> Git, Subversion<br></p>
 <hr />
+<p><img src="images/download_icon.png" style="width:4%; margin-right: 20px" align="left"> Download a copy of my detailed curriculum vitae <a href="%22docs/Purva_Kulkarni_Curriculum_Vitae_Full.pdf%22">here</a>.</p>
 </div>
 
 
