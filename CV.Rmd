@@ -55,7 +55,12 @@ Technical team lead for the development of a software based on Mass Spectrometry
 
 **Programming** JAVA, C, Perl, SQL, Shell Scripting  <br>
 **IDE's** Eclipse, MySQL Workbench, IntelliJ, Rstudio  <br>
+**Integrated software environment** Matlab, R, Octave<br>
+**Markup languages** HTML, XML<br>
+**Web/Application servers** Apache, Tomcat 4.x/5.x<br>
+**Operating systems** Windows, Mac, Linux Ubuntu/Debian (for programming and application development)<br>
+**Version control** Git, Subversion<br>
 
+----
 
-
-
+Download a copy of my detailed curriculum vitae here
