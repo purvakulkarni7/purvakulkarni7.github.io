@@ -1,10 +1,13 @@
 ---
 title: "Publications"
 ---
-
+&nbsp;
+&nbsp;
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-**Kulkarni, P.**, Wilschut, R.A., Verhoeven, K.J.F, Putten, W.H.V.D., Garbeva, P. (2018), LAESI mass spectrometry imaging as a tool to differentiate the root metabolome of native and range-expanding plant species. *bioRxiv 322867*. _GigaScience_. DOI: [10.1101/322867](https://www.biorxiv.org/content/early/2018/05/15/322867)
+Wilschut, R.A., Putten, W.H., Garbeva, P., Harkes, P., Konings, W., **Kulkarni, P.**, Martens, H., Geisen, S. (2019) Root traits and belowground herbivores relate to plant–soil feedback variation among congeners. Nat Commun 10, 1564. DOI: [10.1038/s41467-019-09615-x](https://www.nature.com/articles/s41467-019-09615-x)
+
+**Kulkarni, P.**, Wilschut, R.A., Verhoeven, K.J.F, Putten, W.H.V.D., Garbeva, P. (2018), LAESI mass spectrometry imaging as a tool to differentiate the root metabolome of native and range-expanding plant species. _Planta_ Dec;248(6):1515-1523. DOI: [10.1007/s00425-018-2989-4](https://link.springer.com/article/10.1007%2Fs00425-018-2989-4)
 
 **Kulkarni, P.**, Dost, M., Bulut, Ö. D., Welle, A., Böcker, S., Boland, W., Svatoš, A. Secondary ion mass spectrometry imaging and multivariate data analysis reveals co-aggregation patterns of Populus trichocarpa leaf surface compounds on micrometer scale. _Plant J._ 2018 Jan;93(1):193-206. DOI: [10.1111/tpj.13763](https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.13763)
 

@@ -1,16 +1,12 @@
----
----
-
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+<img src="images/markus-spiske-KeFyYzxqmH0-unsplash.jpg" style="width:100%; height:25%" align="center">
+
 <img src="images/Professional_Picture_Purva_Kulkarni.jpg" style="width:25%; margin-right: 20px" align="left">
 
-# Hello! I am Purva. #
+#Hi! I am Purva.#
 
-<br>
+I am an early career researcher at the Translational Metabolic Laboratory, Radboud University Medical Centre in Nijmegen, The Netherlands. My core interest lies in developing and applying a range of bioinformatics and data analysis approaches to study and interpret large scale mass spectrometry (MS) based -omics datasets. As a part of my current project, I focus on building novel algorithms and robust computational workflows that can help identify significant mass features of interest from untargeted MS-based metabolomics data. This knowledge can provide insights into complex metabolic mechanisms of diseases that further help in the identification of new differential biomarkers. With this, I together with my colleagues try to achieve the key objective of translating our research into novel personalized diagnostics, hence making a real impact on healthcare. My research interests also extend in developing computational approaches for automated image processing and pattern recognition in biological images. 
 
-I am a computational biologist with a keen interest in developing and applying data analysis approaches in metabolomics, particularly spatial metabolomics. My current research at NIOO-KNAW, Wageningen focuses on developing a computational pipeline for mass spectrometry imaging data acquired to study plant and microbial-interaction samples as well as interpretation of this data. Apart from this, at my current position, I have worked on several collaborative projects for GC-MS and DART data analysis, mass spectrometry-based VOC (volatile organic compound) analysis and statistical analysis of large datasets. My research interests also extend in developing computational approaches for automated image processing and pattern recognition in biological images. 
-
-As a next step, I wish to apply and enhance my expertise to analyze biological data from other -omics modalities to develop integrative computational approaches that can bridge this multi-tiered information, to provide confident over-all biological knowledge for a system under study.
-
+I mostly use the R programming environment in my projects for method development, data analysis and visualization. I also have previous hands-on experience in working with Java and Matlab. In the coming days, I also look forward to learn and work in Python.   

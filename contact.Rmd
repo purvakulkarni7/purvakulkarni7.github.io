@@ -1,15 +1,23 @@
 ---
 title: "Get in touch"
 ---
-
+&nbsp;
+&nbsp;
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 I'd love to hear from you, so feel free to reach out:
 
-Netherlands Institute of Ecology (NIOO-KNAW)<br>
-Droevendaalsesteeg 10<br>
-6708 PB Wageningen<br>
-+31 (0)317 47 34 00 <br>
-P.Kulkarni@nioo.knaw.nl<br>
+<img src="images/Radboudumc-logo.png" style="width:25%; margin-right: 10px" align="left">
+
+<br><br><br>
+
+**Radboud University Medical Center**<br>
+Translational Metabolic Laboratory<br>
+Department of Laboratory Medicine<br>
+Geert Grooteplein Zuid 10 <br>
+6525 GA Nijmegen <br>
+The Netherlands <br>
++31-24-3614567 <br>
+purva.kulkarni@radboudumc.nl<br>
 
 Or connect with me on GitHub, Twitter, or Linkedin (links in top right).

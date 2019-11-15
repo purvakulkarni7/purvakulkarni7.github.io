@@ -10,7 +10,12 @@ title: "Curriculum Vitae"
 
 ----
 
-**Feb 2017 – Till date** <br>
+**Aug 2018 – Till date** <br>
+**Post-doctoral researcher, Translational Metabolic Laboratory, Radboud University Medical Center, Nijmegen, NL**  <br>
+Developing data analysis approaches and computational pipelines for MS-based metabolomics and glyco-proteomics with application in personalized diagnostics 
+<br>
+
+**Feb 2017 – Jun 2018** <br>
 **Post-doctoral researcher, Netherlands Insitute of Ecology (NIOO-KNAW), Wageningen, NL**  <br>
 Developing bioinformatics tools and pipelines for metabolomics analysis (Mass spectrometry imaging, GC-MS and LC-MS)
 <br>
@@ -18,7 +23,6 @@ Developing bioinformatics tools and pipelines for metabolomics analysis (Mass sp
 **Jan 2013 – Jan 2017** <br>
 **Ph.D. researcher, Friedrich Schiller University (FSU) and Max Planck Institute for Chemical Ecology (MPI-CE), Jena, DE** <br> 
 Computational methods for the analysis of mass spectrometry imaging data<br>
-_(Defense expected June 2018)_<br>
 
 **Sep 2009 - November 2011**<br>
 **Masters in Science (Biochemistry), Devi Ahilya Vishwa Vidyalaya (DAVV), Indore, IN**<br>

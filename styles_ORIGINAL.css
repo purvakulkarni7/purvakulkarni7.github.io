@@ -1,10 +1,8 @@
 h1 {
   font-size: 32px;
-  color: #4CD6BA;
 }
 h1.title {
   font-size: 32px;
-  color: #4CD6BA;
 }
 h2 {
   font-size: 28px;
@@ -26,4 +24,8 @@ h6 {
 img {
     display: block;
     margin: auto;
+}
+
+img-circle {
+    border-radius: 50%;
 }
