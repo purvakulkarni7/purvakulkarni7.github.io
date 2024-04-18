@@ -9,8 +9,11 @@ title: "Curriculum Vitae"
 ## Research and academics ##
 
 ----
+**Sep 2023 – Till date** <br>
+**Bioinformatics staff scientist, Translational Metabolic Laboratory, Radboud University Medical Center, Nijmegen, NL**  <br>
+Developing data analysis approaches and computational pipelines for MS-based metabolomics and glyco-proteomics with application in personalized diagnostics 
 
-**Aug 2018 – Till date** <br>
+**Aug 2018 – Aug 2023** <br>
 **Post-doctoral researcher, Translational Metabolic Laboratory, Radboud University Medical Center, Nijmegen, NL**  <br>
 Developing data analysis approaches and computational pipelines for MS-based metabolomics and glyco-proteomics with application in personalized diagnostics 
 <br>
